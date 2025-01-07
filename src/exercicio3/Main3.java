@@ -8,6 +8,7 @@ public class Main3 {
         List<Shape> shapes = new ArrayList<>();
         shapes.add(new Rectangle(5,10));
         shapes.add(new Square(4));
+        shapes.add(new Triangle(6, 8));
 
         for (Shape shape : shapes){
             System.out.println("Área: " + shape.getArea());
