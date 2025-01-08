@@ -3,7 +3,7 @@ package exercicio4;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Main4 {
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
 
